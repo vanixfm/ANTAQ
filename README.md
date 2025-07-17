@@ -51,9 +51,8 @@ Os gráficos apresentados ao longo do trabalho evidenciam, de forma clara, que a
 ## Próximos Passos
 
 A ampliação da base de dados, incorporando variáveis externas, como informações climáticas detalhadas, tráfego rodoviário em tempo real e indicadores econômicos, além de um monitoramento maiseficiente das condições meteorológicas que impactam diretamente a operação portuária.
-
-<a href="#" target="_blank"> 
- <img src="Artigo - Vanessa Mereles.png" width="450" height="250"/>
- <img src="Artigo - Vanessa Mereles2.png" width="450" height="250"/>
-</a>
+<p align="center">
+  <img src="Artigo - Vanessa Mereles.png" width="45%" />
+  <img src="Artigo - Vanessa Mereles2.png" width="45%" />
+</p>
 
